@@ -4,6 +4,7 @@
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE and Edge */
   background-color: #f9f9f9;
+  scroll-behavior: smooth;
 }
 .body::-webkit-scrollbar {
   display: none; /* Chrome, Safari */
@@ -111,4 +112,35 @@
 .skill-page {
   height: 100vh;
   background-color: #080809;
+}
+.skill-box {
+  height: 80%;
+  width: 90%;
+  color: #fff;
+}
+.skill-box p {
+  color: #ff4522;
+}
+.bar-div {
+  height: 8px;
+  background-color: #2a2a2c;
+}
+.progress-bar {
+  height: 8px;
+  background-color: #ff4522;
+  width: 95%;
+}
+.progress-bar-1 {
+  height: 8px;
+  background-color: #ff4522;
+  width: 85%;
+}
+.skill-img-box {
+  height: 90%;
+  width: 90%;
+}
+.skill-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
