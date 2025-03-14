@@ -144,3 +144,59 @@
   width: 100%;
   object-fit: cover;
 }
+.work-page {
+  height: 100vh;
+  background-color: #fff;
+}
+.work-box {
+  height: 80%;
+  width: 90%;
+}
+.work-box p {
+  color: #ff4522;
+}
+tr {
+  margin: 10px;
+}
+.pricing-page {
+  height: 70vh;
+  background-color: #f9f9f9;
+}
+.price-box {
+  height: 80%;
+  width: 90%;
+}
+.price-box p {
+  color: #ff4522;
+}
+.card-2 {
+  width: 100%;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.pp {
+  color: #ff4522;
+}
+.contact-page {
+  height: 80vh;
+  background-color: #fff;
+}
+.contact-box {
+  height: 80%;
+  width: 90%;
+}
+.form-box {
+  /* height: 400px; */
+  width: 70%;
+}
+.btn-bg {
+  background-color: #ff4522;
+  color: #fff;
+}
+.btn-bg:hover {
+  background-color: #ff4522;
+  color: #fff;
+}
