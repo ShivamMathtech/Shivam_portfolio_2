@@ -1,0 +1,15 @@
+{
+  "name": "shivamprotfolio",
+  "version": "1.0.0",
+  "description": "Provide the Beautiful Template for the Better UX of portfolio  ",
+  "keywords": [
+    "npm"
+  ],
+  "license": "MIT",
+  "author": "Shivam Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
